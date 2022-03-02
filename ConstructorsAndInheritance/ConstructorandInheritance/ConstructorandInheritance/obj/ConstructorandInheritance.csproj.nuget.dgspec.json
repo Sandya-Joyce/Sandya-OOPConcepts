@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\Inheritance\\ConsoleApp2\\Inheritance.csproj": {}
+    "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\ConstructorsAndInheritance\\ConstructorandInheritance\\ConstructorandInheritance\\ConstructorandInheritance.csproj": {}
   },
   "projects": {
-    "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\Inheritance\\ConsoleApp2\\Inheritance.csproj": {
+    "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\ConstructorsAndInheritance\\ConstructorandInheritance\\ConstructorandInheritance\\ConstructorandInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\Inheritance\\ConsoleApp2\\Inheritance.csproj",
-        "projectName": "Inheritance",
-        "projectPath": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\Inheritance\\ConsoleApp2\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\ConstructorsAndInheritance\\ConstructorandInheritance\\ConstructorandInheritance\\ConstructorandInheritance.csproj",
+        "projectName": "ConstructorandInheritance",
+        "projectPath": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\ConstructorsAndInheritance\\ConstructorandInheritance\\ConstructorandInheritance\\ConstructorandInheritance.csproj",
         "packagesPath": "C:\\Users\\Sandya.dasari\\.nuget\\packages\\",
-        "outputPath": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\Inheritance\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Sandya\\WebDev\\Sandya-OOPConcepts\\ConstructorsAndInheritance\\ConstructorandInheritance\\ConstructorandInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

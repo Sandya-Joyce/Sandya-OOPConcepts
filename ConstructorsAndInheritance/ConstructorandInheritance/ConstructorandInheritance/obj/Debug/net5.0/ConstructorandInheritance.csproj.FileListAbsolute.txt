@@ -1,0 +1,16 @@
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.exe
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.deps.json
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.runtimeconfig.json
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.runtimeconfig.dev.json
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.dll
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ref\ConstructorandInheritance.dll
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\bin\Debug\net5.0\ConstructorandInheritance.pdb
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.csproj.AssemblyReference.cache
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.AssemblyInfoInputs.cache
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.AssemblyInfo.cs
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.csproj.CoreCompileInputs.cache
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.dll
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ref\ConstructorandInheritance.dll
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.pdb
+C:\Sandya\WebDev\Sandya-OOPConcepts\ConstructorsAndInheritance\ConstructorandInheritance\ConstructorandInheritance\obj\Debug\net5.0\ConstructorandInheritance.genruntimeconfig.cache
